@@ -18509,7 +18509,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <part name="C29" library="rcl" deviceset="C-EU" device="C0805" value="10n"/>
 <part name="R33" library="rcl" deviceset="R-EU_" device="R0805" value="120k"/>
 <part name="R34" library="rcl" deviceset="R-EU_" device="R0805" value="10k"/>
-<part name="R35" library="rcl" deviceset="R-EU_" device="R0805" value="680k"/>
+<part name="R35" library="rcl" deviceset="R-EU_" device="R0805" value="580k"/>
 <part name="C30" library="rcl" deviceset="C-EU" device="C0805" value="22p"/>
 <part name="C31" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="R36" library="rcl" deviceset="R-EU_" device="R0805" value="120k"/>
@@ -18949,6 +18949,13 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <pinref part="U1" gate="G$1" pin="35"/>
 <wire x1="99.06" y1="86.36" x2="106.68" y2="86.36" width="0.1524" layer="91"/>
 <label x="106.68" y="86.36" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="LIGHT_PWM" class="0">
+<segment>
+<pinref part="U1" gate="G$1" pin="45"/>
+<wire x1="99.06" y1="60.96" x2="106.68" y2="60.96" width="0.1524" layer="91"/>
+<label x="106.68" y="60.96" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
@@ -20816,6 +20823,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 </nets>
 </sheet>
 <sheet>
+<description>GPS</description>
 <plain>
 </plain>
 <instances>
