@@ -16760,169 +16760,6 @@ by exp-project-replace-lbr.ulp</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="EAGLE-WR-DC_POWER_JACK_CONNECTORS-rev16b">
-<description>&lt;BR&gt;Wurth Elektronik - DC Power Jack Connectors&lt;br&gt;&lt;Hr&gt;
-&lt;BR&gt;&lt;BR&gt; 
-&lt;TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0&gt;
-&lt;TR&gt;   
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;&lt;br&gt;
-      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt; &lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      ---------------------------&lt;BR&gt;
-&lt;B&gt;&lt;I&gt;&lt;span style='font-size:26pt;
-  color:#FF6600;'&gt;WE &lt;/span&gt;&lt;/i&gt;&lt;/b&gt;
-&lt;BR&gt;
-      ---------------------------&lt;BR&gt;&lt;b&gt;Würth Elektronik&lt;/b&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      ---------O---&lt;BR&gt;
-      ----O--------&lt;BR&gt;
-      ---------O---&lt;BR&gt;
-      ----O--------&lt;BR&gt;
-      ---------O---&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-   
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;
-      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-  &lt;/TR&gt;
-
-  &lt;TR&gt;
-    &lt;TD COLSPAN=7&gt;&amp;nbsp;
-    &lt;/TD&gt;
-  &lt;/TR&gt;
-  
-&lt;/TABLE&gt;
-&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;More than you expect&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/B&gt;
-
-&lt;HR&gt;&lt;BR&gt;
-&lt;b&gt;Würth Elektronik eiSos GmbH &amp; Co. KG&lt;/b&gt;&lt;br&gt;
-EMC &amp; Inductive Solutions&lt;br&gt;
-
-Max-Eyth-Str.1&lt;br&gt;
-D-74638 Waldenburg&lt;br&gt;
-&lt;br&gt;
-Tel: +49 (0)7942-945-0&lt;br&gt;
-Fax:+49 (0)7942-945-405&lt;br&gt;
-&lt;br&gt;
-&lt;a href="http://www.we-online.com/eagle"&gt;http://www.we-online.com/eagle &lt;/a&gt;&lt;br&gt;
-&lt;a href="mailto:libraries@we-online.com"&gt;libraries@we-online.com&lt;/a&gt; &lt;BR&gt;&lt;BR&gt;
-&lt;br&gt;&lt;HR&gt;&lt;BR&gt;
-Neither CadSoft nor WE-eiSos does warrant that this library is error-free or &lt;br&gt;
-that it meets your specific requirements.&lt;br&gt;&lt;BR&gt;
-Please contact us for more information.&lt;br&gt;&lt;BR&gt;&lt;br&gt;
-&lt;hr&gt;
-Eagle Version 6, Library Revision 2016b, 2016-10-10&lt;br&gt;
-&lt;HR&gt;
-Copyright: Würth Elektronik</description>
-<packages>
-<package name="69410X303002">
-<description>&lt;b&gt;694102303002&lt;/b&gt;&lt;p&gt;WR-DC_DC Power Jack_Right Angled_THT Center Pin ?1.0_Plug ID ?1.05_Plug OD ?3.5</description>
-<wire x1="11.1" y1="1.9" x2="11.1" y2="2.5" width="0.127" layer="21"/>
-<wire x1="0" y1="-2.5" x2="6.6" y2="-2.5" width="0.127" layer="21"/>
-<wire x1="11.1" y1="-2.5" x2="11.1" y2="-1.9" width="0.127" layer="21"/>
-<wire x1="0" y1="-2.5" x2="0" y2="2.5" width="0.127" layer="21"/>
-<wire x1="10" y1="-2.5" x2="11.1" y2="-2.5" width="0.127" layer="21"/>
-<pad name="2" x="6" y="0" drill="1" diameter="1.5" shape="long" rot="R270"/>
-<text x="3.9" y="3.504" size="1.27" layer="25" font="vector" ratio="13" rot="SR0">&gt;NAME</text>
-<text x="2.7" y="-5.52" size="1.27" layer="27" font="vector" ratio="13" rot="SR0">&gt;VALUE</text>
-<text x="-0.765" y="-3.075" size="0.8128" layer="51" rot="R90">PCB Edge</text>
-<pad name="1" x="10.9" y="0" drill="1" diameter="1.5" shape="long" rot="R270"/>
-<wire x1="6.5" y1="-0.23" x2="6.5" y2="0.26" width="0.1" layer="46"/>
-<wire x1="5.5" y1="0.24" x2="5.5" y2="-0.25" width="0.1" layer="46"/>
-<wire x1="11.4" y1="-0.235" x2="11.4" y2="0.258" width="0.1" layer="46"/>
-<wire x1="10.4" y1="0.238" x2="10.4" y2="-0.255" width="0.1" layer="46"/>
-<wire x1="0" y1="2.5" x2="11.1" y2="2.5" width="0.127" layer="21"/>
-<pad name="3" x="8.3" y="-2.8" drill="1" diameter="1.5" shape="long"/>
-<polygon width="0.127" layer="39">
-<vertex x="-0.25" y="2.75"/>
-<vertex x="12" y="2.75"/>
-<vertex x="12" y="-3.75"/>
-<vertex x="-0.25" y="-3.75"/>
-</polygon>
-<wire x1="8.534" y1="-2.3" x2="8.039" y2="-2.3" width="0.1" layer="46"/>
-<wire x1="8.059" y1="-3.3" x2="8.554" y2="-3.3" width="0.1" layer="46"/>
-<wire x1="5.5" y1="0.24" x2="6.5" y2="0.26" width="0.1" layer="46" curve="-181.145419"/>
-<wire x1="6.5" y1="-0.23" x2="5.5" y2="-0.25" width="0.1" layer="46" curve="-181.145419"/>
-<text x="4.28" y="-0.35" size="0.8128" layer="21">2</text>
-<text x="9.15" y="-0.37" size="0.8128" layer="21">1</text>
-<text x="8.02" y="-1.73" size="0.8128" layer="21">3</text>
-<wire x1="10.4" y1="0.238" x2="11.4" y2="0.258" width="0.1" layer="46" curve="-181.145419"/>
-<wire x1="11.4" y1="-0.235" x2="10.4" y2="-0.255" width="0.1" layer="46" curve="-181.145419"/>
-<wire x1="7.546" y1="-3.298" x2="7.548" y2="-3.3" width="0.01" layer="46"/>
-<wire x1="8.059" y1="-3.3" x2="8.039" y2="-2.3" width="0.1" layer="46" curve="-181.145419"/>
-<wire x1="8.534" y1="-2.3" x2="8.554" y2="-3.3" width="0.1" layer="46" curve="-181.145419"/>
-</package>
-</packages>
-<symbols>
-<symbol name="DC_POWER_JACK">
-<pin name="1" x="0" y="0" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="2" x="0" y="-5.08" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="3" x="0" y="-2.54" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<wire x1="-8.255" y1="-1.27" x2="-8.255" y2="1.27" width="0.1524" layer="94" curve="-180"/>
-<wire x1="-8.255" y1="1.27" x2="-3.81" y2="1.27" width="0.1524" layer="94"/>
-<wire x1="-3.81" y1="1.27" x2="-3.81" y2="-1.27" width="0.1524" layer="94"/>
-<wire x1="-3.81" y1="-1.27" x2="-8.255" y2="-1.27" width="0.1524" layer="94"/>
-<wire x1="-3.81" y1="-1.27" x2="-3.81" y2="-1.905" width="0.1524" layer="94"/>
-<wire x1="-3.81" y1="-1.905" x2="-2.54" y2="-1.905" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="-1.905" x2="-2.54" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="1.905" x2="-3.81" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="-3.81" y1="1.905" x2="-3.81" y2="1.27" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="-5.08" x2="-8.255" y2="-5.08" width="0.1524" layer="94"/>
-<wire x1="-8.255" y1="-5.08" x2="-8.89" y2="-3.81" width="0.1524" layer="94"/>
-<wire x1="-8.89" y1="-3.81" x2="-9.525" y2="-5.08" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="-2.54" x2="-2.54" y2="-5.08" width="0.1524" layer="94"/>
-<text x="-10.16" y="2.54" size="1.778" layer="95">&gt;NAME</text>
-<text x="-10.16" y="-7.62" size="1.778" layer="96">&gt;VALUE</text>
-<polygon width="0.1524" layer="94">
-<vertex x="-2.54" y="-5.08"/>
-<vertex x="-3.048" y="-3.81"/>
-<vertex x="-2.032" y="-3.81"/>
-</polygon>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="694103303002" prefix="J" uservalue="yes">
-<description>&lt;b&gt;WR-DC_DC Power Jack_Right Angled_THT Center Pin Ø1.3_Plug ID Ø1.35_Plug OD Ø3.5
-;&lt;/b&gt;=&gt;Code : Con_WR-DC_THT_6941xx303002_694103303002
-&lt;p&gt;&lt;a href="http://katalog.we-online.de/media/images/eican/Con_WR-DC_THT_6941xx303002_pf2.jpg"&gt;
-&lt;img src="http://katalog.we-online.de/media/thumbs2/eican/thb_Con_WR-DC_THT_6941xx303002_pf2.jpg" width="320"&gt;&lt;/a&gt;&lt;p&gt;
-Details see: &lt;a href="http://katalog.we-online.de/em/datasheet/6941xx303002.pdf"&gt;http://katalog.we-online.de/em/datasheet/6941xx303002.pdf&lt;/a&gt;&lt;p&gt;
-Created 2014-10-08, Karrer Zheng&lt;br&gt;
-2014 (C) Wurth Elektronik</description>
-<gates>
-<gate name="G$1" symbol="DC_POWER_JACK" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="69410X303002">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="Maxim_By_element14_Batch_1">
 <description>Developed by element14 :&lt;br&gt;
 element14 CAD Library consolidation.ulp
@@ -18227,6 +18064,172 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 </deviceset>
 </devicesets>
 </library>
+<library name="EAGLE-WR-DC_POWER_JACK_CONNECTORS-rev17a">
+<description>&lt;BR&gt;Wurth Elektronik - DC Power Jack Connectors&lt;br&gt;&lt;Hr&gt;
+&lt;BR&gt;&lt;BR&gt; 
+&lt;TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0&gt;
+&lt;TR&gt;   
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;&lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt; &lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      ---------------------------&lt;BR&gt;
+&lt;B&gt;&lt;I&gt;&lt;span style='font-size:26pt;
+  color:#FF6600;'&gt;WE &lt;/span&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;BR&gt;
+      ---------------------------&lt;BR&gt;&lt;b&gt;Würth Elektronik&lt;/b&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      ---------O---&lt;BR&gt;
+      ----O--------&lt;BR&gt;
+      ---------O---&lt;BR&gt;
+      ----O--------&lt;BR&gt;
+      ---------O---&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+   
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+
+  &lt;TR&gt;
+    &lt;TD COLSPAN=7&gt;&amp;nbsp;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+  
+&lt;/TABLE&gt;
+&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;More than you expect&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/B&gt;
+
+&lt;HR&gt;&lt;BR&gt;
+&lt;b&gt;Würth Elektronik eiSos GmbH &amp; Co. KG&lt;/b&gt;&lt;br&gt;
+EMC &amp; Inductive Solutions&lt;br&gt;
+
+Max-Eyth-Str.1&lt;br&gt;
+D-74638 Waldenburg&lt;br&gt;
+&lt;br&gt;
+Tel: +49 (0)7942-945-0&lt;br&gt;
+Fax:+49 (0)7942-945-405&lt;br&gt;
+&lt;br&gt;
+&lt;a href="http://www.we-online.com/web/en/electronic_components/produkte_pb/bauteilebibliotheken/eagle_4.php"&gt;www.we-online.com/eagle&lt;/a&gt;&lt;br&gt;
+&lt;a href="mailto:libraries@we-online.com"&gt;libraries@we-online.com&lt;/a&gt; &lt;BR&gt;&lt;BR&gt;
+&lt;br&gt;&lt;HR&gt;&lt;BR&gt;
+Neither Autodesk nor Würth Elektronik eiSos does warrant that this library is error-free or &lt;br&gt;
+that it meets your specific requirements.&lt;br&gt;&lt;BR&gt;
+Please contact us for more information.&lt;br&gt;&lt;BR&gt;&lt;br&gt;
+&lt;hr&gt;
+Eagle Version 6, Library Revision 2017a, 2017-07-25&lt;br&gt;
+&lt;HR&gt;
+Copyright: Würth Elektronik</description>
+<packages>
+<package name="69410X301002">
+<description>&lt;b&gt;694106301002&lt;/b&gt;&lt;p&gt;WR-DC_DC Power Jack_Right Angled_THT Center Pin ?2.0_Plug ID ?2.05_Plug OD ?5.5</description>
+<wire x1="0.19985" y1="4.50001875" x2="0.000003125" y2="4.299821875" width="0.2" layer="21" curve="97.0981"/>
+<wire x1="-0.00001875" y1="-4.300140625" x2="0.2" y2="-4.5" width="0.2" layer="21" curve="97.0429"/>
+<wire x1="0.2" y1="-4.5" x2="0.200178125" y2="-4.4999875" width="0.2" layer="21" curve="0.054215"/>
+<wire x1="14.5" y1="4.5" x2="0.2" y2="4.5" width="0.2" layer="21"/>
+<wire x1="14.5" y1="-4.5" x2="12.7" y2="-4.5" width="0.2" layer="21"/>
+<wire x1="14.5" y1="4.5" x2="14.5" y2="2.2" width="0.2" layer="21"/>
+<wire x1="0" y1="4.3" x2="0" y2="-4.3" width="0.2" layer="21"/>
+<wire x1="8.3" y1="-4.5" x2="0.2" y2="-4.5" width="0.2" layer="21"/>
+<wire x1="14.5" y1="-2.2" x2="14.5" y2="-4.5" width="0.2" layer="21"/>
+<pad name="2" x="7.8" y="0" drill="0.8" diameter="1.8" shape="long" rot="R270"/>
+<pad name="1" x="13.6" y="0" drill="0.8" diameter="1.8" shape="long" rot="R90"/>
+<pad name="3" x="10.6" y="-4.8" drill="0.8" diameter="1.8" shape="long" rot="R180"/>
+<text x="3.7" y="5.7056" size="2.032" layer="25" font="vector" ratio="13" rot="SR0">&gt;NAME</text>
+<text x="2.6" y="-9.6484" size="2.032" layer="27" font="vector" ratio="13" rot="SR0">&gt;VALUE</text>
+<wire x1="13.2" y1="1.5" x2="13.2" y2="-1.5" width="0.1" layer="46"/>
+<wire x1="14" y1="-1.5" x2="14" y2="1.5" width="0.1" layer="46"/>
+<wire x1="7.4" y1="1.5" x2="7.4" y2="-1.5" width="0.1" layer="46"/>
+<wire x1="8.2" y1="-1.5" x2="8.2" y2="1.5" width="0.1" layer="46"/>
+<wire x1="9.1" y1="-5.2" x2="12.1" y2="-5.2" width="0.1" layer="46"/>
+<wire x1="12.1" y1="-4.4" x2="9.1" y2="-4.4" width="0.1" layer="46"/>
+<text x="1.135" y="-2.375" size="0.8128" layer="51" rot="R90">PCB Edge</text>
+<polygon width="0.127" layer="39">
+<vertex x="14.85" y="-6"/>
+<vertex x="-0.15" y="-6"/>
+<vertex x="-0.15" y="4.75"/>
+<vertex x="14.85" y="4.75"/>
+</polygon>
+<text x="10.1" y="-3.5" size="1.27" layer="21">3</text>
+<text x="11.4" y="-0.7" size="1.27" layer="21">1</text>
+<text x="5.7" y="-0.6" size="1.27" layer="21">2</text>
+<wire x1="9.1" y1="-4.4" x2="9.1" y2="-5.2" width="0.1" layer="46"/>
+<wire x1="12.1" y1="-4.4" x2="12.1" y2="-5.2" width="0.1" layer="46"/>
+<wire x1="7.4" y1="-1.5" x2="8.2" y2="-1.5" width="0.1" layer="46"/>
+<wire x1="8.2" y1="-1.5" x2="8.2" y2="-1.6" width="0.01" layer="46"/>
+<wire x1="7.4" y1="1.5" x2="8.2" y2="1.5" width="0.1" layer="46"/>
+<wire x1="13.2" y1="1.5" x2="14" y2="1.5" width="0.1" layer="46"/>
+<wire x1="13.2" y1="-1.5" x2="14" y2="-1.5" width="0.1" layer="46"/>
+</package>
+</packages>
+<symbols>
+<symbol name="DC_POWER_JACK">
+<pin name="1" x="0" y="0" visible="pad" length="short" direction="pas" rot="R180"/>
+<pin name="2" x="0" y="-5.08" visible="pad" length="short" direction="pas" rot="R180"/>
+<pin name="3" x="0" y="-2.54" visible="pad" length="short" direction="pas" rot="R180"/>
+<wire x1="-8.255" y1="-1.27" x2="-8.255" y2="1.27" width="0.1524" layer="94" curve="-180"/>
+<wire x1="-8.255" y1="1.27" x2="-3.81" y2="1.27" width="0.1524" layer="94"/>
+<wire x1="-3.81" y1="1.27" x2="-3.81" y2="-1.27" width="0.1524" layer="94"/>
+<wire x1="-3.81" y1="-1.27" x2="-8.255" y2="-1.27" width="0.1524" layer="94"/>
+<wire x1="-3.81" y1="-1.27" x2="-3.81" y2="-1.905" width="0.1524" layer="94"/>
+<wire x1="-3.81" y1="-1.905" x2="-2.54" y2="-1.905" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="-1.905" x2="-2.54" y2="1.905" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="1.905" x2="-3.81" y2="1.905" width="0.1524" layer="94"/>
+<wire x1="-3.81" y1="1.905" x2="-3.81" y2="1.27" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="-5.08" x2="-8.255" y2="-5.08" width="0.1524" layer="94"/>
+<wire x1="-8.255" y1="-5.08" x2="-8.89" y2="-3.81" width="0.1524" layer="94"/>
+<wire x1="-8.89" y1="-3.81" x2="-9.525" y2="-5.08" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="-2.54" x2="-2.54" y2="-5.08" width="0.1524" layer="94"/>
+<text x="-10.16" y="2.54" size="1.778" layer="95">&gt;NAME</text>
+<text x="-10.16" y="-7.62" size="1.778" layer="96">&gt;VALUE</text>
+<polygon width="0.1524" layer="94">
+<vertex x="-2.54" y="-5.08"/>
+<vertex x="-3.048" y="-3.81"/>
+<vertex x="-2.032" y="-3.81"/>
+</polygon>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="694108301002" prefix="J" uservalue="yes">
+<description>&lt;b&gt;WR-DC_DC Power Jack_Right Angled_THT Center Pin Ø2.5_Plug ID Ø2.05_Plug OD Ø5.5
+;&lt;/b&gt;=&gt;Code : Con_WR-DC_THT_694108301002_694108301002
+&lt;p&gt;&lt;a href="http://katalog.we-online.de/media/images/eican/Con_WR-DC_THT_694108301002_pf2.jpg"&gt;
+&lt;img src="http://katalog.we-online.de/media/thumbs2/eican/thb_Con_WR-DC_THT_694108301002_pf2.jpg" width="320"&gt;&lt;/a&gt;&lt;p&gt;
+Details see: &lt;a href="http://katalog.we-online.de/em/datasheet/6941xx301002.pdf"&gt;http://katalog.we-online.de/em/datasheet/6941xx301002.pdf&lt;/a&gt;&lt;p&gt;
+Created 2014-10-08, Karrer Zheng&lt;br&gt;
+2014 (C) Wurth Elektronik</description>
+<gates>
+<gate name="G$1" symbol="DC_POWER_JACK" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="69410X301002">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -18367,7 +18370,6 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <part name="GND24" library="supply1" deviceset="GND" device=""/>
 <part name="R18" library="resistor" deviceset="R-EU_" device="R0805" value="330"/>
 <part name="GND25" library="supply1" deviceset="GND" device=""/>
-<part name="POWER" library="EAGLE-WR-DC_POWER_JACK_CONNECTORS-rev16b" deviceset="694103303002" device=""/>
 <part name="U11" library="Maxim_By_element14_Batch_1" deviceset="DS1341U+" device="" value="DS1342U+"/>
 <part name="GND59" library="supply1" deviceset="GND" device=""/>
 <part name="Y1" library="Design 5" deviceset="CM7V-T1A" device="" value="ABS07-32.768KHZ-T "/>
@@ -18463,6 +18465,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <part name="MIC" library="invensense" deviceset="ICS40310" device=""/>
 <part name="U14" library="mic5365" deviceset="MIC5365" device=""/>
 <part name="U12" library="SparkFun-Boards" deviceset="ARDUINO-MEGA" device="FULL"/>
+<part name="POWER" library="EAGLE-WR-DC_POWER_JACK_CONNECTORS-rev17a" deviceset="694108301002" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -18937,9 +18940,9 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <instance part="GND5" gate="1" x="86.36" y="101.6"/>
 <instance part="GND6" gate="1" x="147.32" y="101.6"/>
 <instance part="GND2" gate="1" x="53.34" y="101.6"/>
-<instance part="POWER" gate="G$1" x="53.34" y="114.3"/>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
 <instance part="U13" gate="G$1" x="127" y="109.22"/>
+<instance part="POWER" gate="G$1" x="53.34" y="114.3"/>
 </instances>
 <busses>
 </busses>
@@ -19009,8 +19012,8 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <pinref part="C3" gate="G$1" pin="2"/>
 <junction x="86.36" y="114.3"/>
 <wire x1="53.34" y1="114.3" x2="71.12" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="POWER" gate="G$1" pin="1"/>
 <pinref part="U13" gate="G$1" pin="VIN"/>
+<pinref part="POWER" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$3" class="0">
